@@ -1,0 +1,9 @@
+.card-deck {
+   row-gap: 20px;
+
+}
+
+.card-body {
+    text-align: center;
+}
+
